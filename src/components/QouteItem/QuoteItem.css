@@ -1,0 +1,16 @@
+.quote-item {
+    border: solid 5px #000000;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+
+.tanik-said {
+    color: #e5e5e5;
+}
+
+.tanik-quote {
+
+}
